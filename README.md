@@ -1,10 +1,10 @@
 <h1>Hola! Mi nombre es Micaela :) </h1>
 <h2>Sobre mi </h2>
 <br>
-Actualmente me encuentro cursando mi ultimo año de la carrera Tecnicatura Universitaria en Programacion en UTN-FRP.
-Soy una persona responsable, con muchas ganas de aprender, aplicar mis conocimientos y tambien
+Actualmente me encuentro cursando mi último año de la carrera Tecnicatura Universitaria en Programacion en UTN-FRP.
+Soy una persona responsable, con muchas ganas de aprender, aplicar mis conocimientos y también
 poder crecer como futura programadora.
-<br>Mis hobbys son la musica, los videojuegos, el anime/manga y aprender sobre programación.  <br>
+<br>Mis hobbies son la musica, los videojuegos, el anime/manga y aprender sobre programación.  <br>
 Mi actual conocimiento sobre tecnologias y habilidades son:
 <section >
             <div >
