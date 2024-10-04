@@ -5,7 +5,7 @@ Actualmente me encuentro cursando mi ultimo año de la carrera Tecnicatura Unive
 Soy una persona responsable, con muchas ganas de aprender, aplicar mis conocimientos y tambien
 poder crecer como futura programadora.
 <br>Mis hobbys son la musica, los videojuegos, el anime/manga y aprender sobre programación.  <br>
-Mi actual conocimiento sobre tecnologias son:
+Mi actual conocimiento sobre tecnologias y habilidades son:
 <section >
             <div >
                 <h2>Habilidades Blandas</h2>
